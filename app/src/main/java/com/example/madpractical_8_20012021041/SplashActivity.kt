@@ -15,7 +15,7 @@ class SplashActivity : AppCompatActivity(),Animation.AnimationListener {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash)
-        guni_imgg=findViewById(R.id.guni_img)
+        guni_imgg=findViewById(R.id.img)
         guni_imgg.setBackgroundResource(R.drawable.uvpce_logo_list)
         logo_framebyframeanimation=guni_imgg.background as AnimationDrawable
         twinanimation=android.view.animation.AnimationUtils.loadAnimation(this,R.anim.twin_animation)

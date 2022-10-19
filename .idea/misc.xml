@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PE/AndroidStudioProjects/MADPractical-8_20012021041/app/src/main/res/drawable/alarm_image_list.xml" value="0.137" />
+        <entry key="..\:/Users/PE/AndroidStudioProjects/MADPractical-8_20012021041/app/src/main/res/drawable/heart_image_list.xml" value="0.137" />
+        <entry key="..\:/Users/PE/AndroidStudioProjects/MADPractical-8_20012021041/app/src/main/res/drawable/rectangle_gradiant.xml" value="0.137" />
+        <entry key="..\:/Users/PE/AndroidStudioProjects/MADPractical-8_20012021041/app/src/main/res/drawable/uvpce_logo_list.xml" value="0.137" />
+        <entry key="..\:/Users/PE/AndroidStudioProjects/MADPractical-8_20012021041/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/PE/AndroidStudioProjects/MADPractical-8_20012021041/app/src/main/res/layout/activity_splash.xml" value="0.25" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/MADPractical8_20012021041/app/src/main/res/drawable/rectangle_gradiant.xml" value="0.1245" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/MADPractical8_20012021041/app/src/main/res/drawable/uvpce_logo_list.xml" value="0.1245" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/MADPractical8_20012021041/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
